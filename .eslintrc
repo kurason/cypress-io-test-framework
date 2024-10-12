@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "cy": true,
+    "Cypress": true
+  },
+  "rules": {
+    "semi": "error"
+  },
+  "env": {
+    "es2022": true
+  }
+}
