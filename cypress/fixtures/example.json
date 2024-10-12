@@ -1,0 +1,17 @@
+{
+  "example": "fixture",
+  	"login": "administrator@testarena.pl",
+	"pass": "sumXQQ72$L",
+	"falsePass": "!W)&(){}JKUhu388hio(^*",
+	"footerItemsText": [
+		"Kokpit",
+		"Regulamin",
+		"Dokumentacja",
+		"Kontakt"
+	],
+	"footerLanguage": [
+		"english",
+		"polski"
+	],
+	"apiEndpoint": "https://api.openbrewerydb.org/breweries"
+}
